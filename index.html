@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Find Yourself</title>
+    
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Snell+Roundhand&display=swap" rel="stylesheet">
+	<link rel="stylesheet" href="styles.css">
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet">
+
+
+</head>
+<body>
+
+<div class="container text-center">
+    <h1>find <span class="h1-other">yourself</span></h1>
+    <h2>and maybe your table and seat too</h2>
+    
+    <p class="p-4">Start by typing your name in the search bar and click on your name when it shows up.</p>
+
+    <!-- Search Bar -->
+    <div class="search-container">
+		
+        <input type="text" id="guestSearch" class="form-control" placeholder="Type your name here..." oninput="filterGuests()">
+        <i class="fas fa-search search-icon"></i>
+        <!-- Results container (hidden initially) -->
+        <div id="searchResults" class="search-results" style="display: none;"><!-- Suggestions will appear here dynamically --></div>
+    </div>
+
+    <!--<img src="/" class="mt-4" alt="Placeholder Image">-->
+</div>
+
+<!-- Bootstrap JS and Popper.js -->
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.min.js"></script>
+<script src="seatingchart.js"></script>
+
+
+</body>
+</html>

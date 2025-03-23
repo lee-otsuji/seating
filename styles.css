@@ -1,0 +1,82 @@
+@charset "UTF-8";
+/* CSS Document */
+
+        body {
+            background-color: white;
+            color: black;
+            font-family: 'Montserrat', sans-serif;
+        }
+
+        h1 {
+            font-family: 'Snell Roundhand', cursive;
+			font-size: 3rem;
+        }
+
+		.h1-other {
+			text-transform: uppercase;
+			font-family: 'Montserrat', sans-serif;
+		}
+
+        .search-bar {
+            margin-top: 20px;
+        }
+
+        .container {
+            margin-top: 50px;
+			max-width: 650px;
+        }
+
+		.table-page {max-width: 100%!important}
+
+        .search-results {
+            border: 1px solid #ccc;
+            max-height: 200px;
+            overflow-y: auto;
+            position: absolute;
+            background-color: white;
+            width: 100%;
+            z-index: 999;
+        }
+
+        .search-results a {
+            display: block;
+            padding: 10px;
+            text-decoration: none;
+            color: black;
+        }
+
+        .search-results a:hover {background-color: #f1f1f1;}
+
+        .search-container {
+            position: relative;
+            width: 100%;
+			max-width: 400px;
+			display: inline-block;
+			padding-bottom: 1rem;
+        }
+
+        .search-container .search-icon {
+			position: absolute;
+			right: 10px; /* Position the icon inside the search bar on the right */
+			top: 25px;
+			transform: translateY(-90%);
+			color: #888;
+			font-size: 18px; /* Make the icon a little bigger */
+        }
+
+		.form-control {
+			border-radius: 0.7rem!important;
+			background: linear-gradient(to right, white, #FDF1F1);
+		}
+
+		img {
+			width: 100%;
+			padding-bottom: 3rem;
+		}
+
+		hr {
+			height: 3px!important;
+			margin-left: 10%;
+			margin-right: 10%;
+			color: #EB4D4D;
+		}

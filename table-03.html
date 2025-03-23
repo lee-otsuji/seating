@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Table 3</title>
+    
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet">
+	<link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Snell+Roundhand&display=swap" rel="stylesheet">
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet">
+
+
+
+</head>
+<body>
+
+<div class="container text-center table-page pb-5">
+	<h1>welcome to <span class="h1-other">table 3</span></h1>
+    
+	<h2>Here is your table:</h2>
+		
+	<img src="table/img/floorplan-03.png" alt="Table 3">
+
+	<h2>Here are all the guests<br>
+    at your table:</h2>
+		
+	<p>Michelle Wong<br/>
+		Brandon	Wong<br/>
+		Russell Chew &amp; Sharon Fong<br/>
+		Thao Le, Andrew Tsai &amp; Zane Tsai<br/>
+		Diane &amp; Kevin Lee
+	</p>
+	<hr>
+	<h2 class="pb-2">Looking for another guest?</h2>
+    <div class="search-container">
+        <input type="text" id="guestSearch" class="form-control" placeholder="Type your name here..." oninput="filterGuests()">
+        <i class="fas fa-search search-icon"></i>
+        <!-- Results container (hidden initially) -->
+      <div id="searchResults" class="search-results" style="display: none;"><!-- Suggestions will appear here dynamically --></div>
+    </div>
+
+</div>
+
+<!-- Bootstrap JS and Popper.js -->
+<script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.10.2/dist/umd/popper.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.min.js"></script>
+<script src="seatingchart.js"></script>
+
+</body>
+</html>
