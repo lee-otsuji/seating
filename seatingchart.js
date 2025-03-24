@@ -126,7 +126,7 @@
         { name: 'Joyce Chai', page: 'table-12.html' },
         { name: 'Max Kim', page: 'table-12.html' },
         { name: 'Aiden Kim', page: 'table-12.html' },
-		{ name: 'Tammy Lee', page: 'table-12.html' },
+	{ name: 'Tammy Lee', page: 'table-12.html' },
 		
 		// Table 13
         { name: 'Ruslan Bratan', page: 'table-13.html' },
@@ -159,6 +159,8 @@
         { name: 'Liam Lew', page: 'table-15.html' },
         { name: 'Vivi Tran', page: 'table-15.html' },
         { name: 'Samuel Chow', page: 'table-15.html' },
+	{ name: 'Marvin Williams', page: 'table-15.html' },
+        { name: 'Miles Williams', page: 'table-15.html' },
     ];
 
     // Function to filter guests based on input
