@@ -5,7 +5,7 @@
         { name: 'Jamie Chow', page: 'table-00.html' },
         { name: 'Linda Nguyen', page: 'table-00.html' },
         { name: 'Amie Jung', page: 'table-00.html' },
-        { name: 'Annie Shie', page: 'table-00.html' },
+        { name: 'Annie Shi', page: 'table-00.html' },
         { name: 'Ryan Wong', page: 'table-00.html' },
         { name: 'Greg Fujii', page: 'table-00.html' },
         { name: 'Kyle Goto', page: 'table-00.html' },
