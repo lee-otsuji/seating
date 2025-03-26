@@ -36,7 +36,7 @@
         { name: 'Russell Chew', page: 'table-03.html' },
         { name: 'Sharon Fong', page: 'table-03.html' },
         { name: 'Thao Le', page: 'table-03.html' },
-        { name: 'Zane Tsai', page: 'table-03.html' },
+        { name: 'Zayden Tsai', page: 'table-03.html' },
         { name: 'Andrew Tsai', page: 'table-03.html' },
         { name: 'Brandon Wong', page: 'table-03.html' },
         { name: 'Diane Lee', page: 'table-03.html' },
