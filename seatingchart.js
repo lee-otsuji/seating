@@ -145,7 +145,7 @@
         { name: 'Melissa Flores', page: 'table-14.html' },
         { name: 'Michael Flores', page: 'table-14.html' },
         { name: 'Mark Matus', page: 'table-14.html' },
-        { name: 'Lindsey Matus', page: 'table-14.html' },
+        { name: 'Lyndsay Matus', page: 'table-14.html' },
         { name: 'Leah Jin', page: 'table-14.html' },
         { name: 'Chris Saur', page: 'table-14.html' },
         { name: 'Joelle Saur', page: 'table-14.html' },
