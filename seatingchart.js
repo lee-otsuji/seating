@@ -51,8 +51,8 @@
         { name: 'Brandon Wong', page: 'table-04.html' },
         { name: 'Diane Lee', page: 'table-04.html' },
         { name: 'Kevin Lee', page: 'table-04.html' },
-	{ name: 'Patty Osaki', page: 'table-04.html' },
-        { name: 'Dave Osaki', page: 'table-04.html' },
+	{ name: 'Patricia (Patty) Osaki', page: 'table-04.html' },
+        { name: 'David (Dave) Osaki', page: 'table-04.html' },
 
         // Table 5
         { name: 'Emiko Lombrana', page: 'table-05.html' },
@@ -71,7 +71,7 @@
         { name: 'Stacey Lee', page: 'table-06.html' },
         { name: 'Jessica Lee', page: 'table-06.html' },
         { name: 'Eleanor Lee', page: 'table-06.html' },
-        { name: 'Benjamin Lee', page: 'table-06.html' },
+        { name: 'Benjamin (Ben) Lee', page: 'table-06.html' },
         { name: 'Joseph Lee', page: 'table-06.html' },
 		             
 	// Table 7
@@ -82,7 +82,7 @@
         { name: 'Marlene Saltonstall', page: 'table-07.html' },
         { name: 'Karen Yamada', page: 'table-07.html' },
 	{ name: 'Karen Nakatani', page: 'table-07.html' },
-        { name: 'Ron Nakatani', page: 'table-07.html' },
+        { name: 'Ronald (Ron) Nakatani', page: 'table-07.html' },
         	
 	// Table 8
         { name: 'Meihuei Judy Chang', page: 'table-08.html' },
