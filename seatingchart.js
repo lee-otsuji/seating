@@ -35,7 +35,7 @@
 	    
         // Table 3
         { name: 'Teresa Arellano', page: 'table-03.html' },
-        { name: 'Joe Arellano', page: 'table-03.html' },
+        { name: 'Joseph (Joe) Arellano', page: 'table-03.html' },
         { name: 'Matthew Sprague', page: 'table-03.html' },
         { name: 'Christy Reyes', page: 'table-03.html' },
         { name: 'Jill Nakatani', page: 'table-03.html' },
@@ -79,7 +79,6 @@
         { name: 'Linda Gee', page: 'table-07.html' },
         { name: 'Jenny Tran', page: 'table-07.html' },
         { name: 'Kathy McMurchy', page: 'table-07.html' },
-        { name: 'Dodd Saltonstall', page: 'table-07.html' },
         { name: 'Marlene Saltonstall', page: 'table-07.html' },
         { name: 'Karen Yamada', page: 'table-07.html' },
 	{ name: 'Karen Nakatani', page: 'table-07.html' },
@@ -124,7 +123,7 @@
         { name: 'Lyndsay Matus', page: 'table-11.html' },
         { name: 'Leah Jin', page: 'table-11.html' },
         { name: 'Chris Saur', page: 'table-11.html' },
-        { name: 'Joelle Saur', page: 'table-11.html' },
+        { name: 'Joelle (JoJo) Saur', page: 'table-11.html' },
 	    
 	// Table 12
         { name: 'Gemma Lee', page: 'table-12.html' },
