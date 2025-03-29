@@ -140,8 +140,8 @@
 	// Table 13
         { name: 'Ruslan Bratan', page: 'table-13.html' },
         { name: 'Lai Saetern', page: 'table-13.html' },
-        { name: 'Victoria Burkart', page: 'table-13.html' },
-        { name: 'Jason (Jake) Burkart', page: 'table-13.html' },
+        { name: 'Nikki Alvarez', page: 'table-13.html' },
+        { name: 'Kristine Alvarez', page: 'table-13.html' },
         { name: 'Sai Sukruth Mangini', page: 'table-13.html' },
         { name: 'Alexandra (Alex) Tran', page: 'table-13.html' },
         { name: 'Eric Tran', page: 'table-13.html' },
